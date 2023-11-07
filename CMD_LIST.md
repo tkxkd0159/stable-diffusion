@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Only for Linux because of `cudatoolkit`
+
 # Download weights
 [link](https://huggingface.co/CompVis/stable-diffusion)
 
